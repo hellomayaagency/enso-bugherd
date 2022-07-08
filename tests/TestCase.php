@@ -2,9 +2,9 @@
 
 namespace Hellomayaagency\EnsoBugherd\Tests;
 
+use Hellomayaagency\EnsoBugherd\EnsoBugherdServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Hellomayaagency\EnsoBugherd\EnsoBugherdServiceProvider;
 
 class TestCase extends Orchestra
 {
